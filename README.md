@@ -1,6 +1,6 @@
 # 元智設定小工具 Windows版
 yzutool_windows
-主要由[yzutool](https://github.com/Oschangkai/yzuTool)，[資服處設定](http://www.yzu.edu.tw/admin/is/)程式改寫
+主要由[yzutool](https://github.com/Oschangkai/yzuTool)，[資服處設定程式](http://www.yzu.edu.tw/admin/is/)改寫
 
 ## 主要功能
 - Proxy設定
