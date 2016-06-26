@@ -1,0 +1,10 @@
+D:\Desktop\yzutool_windows\yzutool_windows\bin\Debug\yzutool_windows.exe.config
+D:\Desktop\yzutool_windows\yzutool_windows\obj\Debug\yzutool_windows.csprojResolveAssemblyReference.cache
+D:\Desktop\yzutool_windows\yzutool_windows\obj\Debug\yzutool_windows.Form1.resources
+D:\Desktop\yzutool_windows\yzutool_windows\obj\Debug\yzutool_windows.Properties.Resources.resources
+D:\Desktop\yzutool_windows\yzutool_windows\obj\Debug\yzutool_windows.csproj.GenerateResource.Cache
+D:\Desktop\yzutool_windows\yzutool_windows\bin\Debug\yzutool_windows.exe
+D:\Desktop\yzutool_windows\yzutool_windows\bin\Debug\yzutool_windows.pdb
+D:\Desktop\yzutool_windows\yzutool_windows\obj\Debug\yzutool_windows.exe
+D:\Desktop\yzutool_windows\yzutool_windows\obj\Debug\yzutool_windows.pdb
+D:\Desktop\yzutool_windows\yzutool_windows\obj\Debug\yzutool_windows.Form2.resources
